@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\AppPush\AppPush\AppPush\obj\Debug\netstandard2.0\AppPush.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\AppPush\AppPush\AppPush\obj\Debug\netstandard2.0\AppPush.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\AppPush\AppPush\AppPush\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ACER\Desktop\AppPush\AppPush\AppPush\obj\Debug\netstandard2.0\Views\PushPage.xaml.g.cs
+C:\Users\ACER\Desktop\AppPush\AppPush\AppPush\obj\Debug\netstandard2.0\AppPush.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\AppPush\AppPush\AppPush\obj\Debug\netstandard2.0\AppPush.AssemblyInfo.cs
+C:\Users\ACER\Desktop\AppPush\AppPush\AppPush\obj\Debug\netstandard2.0\AppPush.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\AppPush\AppPush\AppPush\bin\Debug\netstandard2.0\AppPush.deps.json
+C:\Users\ACER\Desktop\AppPush\AppPush\AppPush\bin\Debug\netstandard2.0\AppPush.dll
+C:\Users\ACER\Desktop\AppPush\AppPush\AppPush\bin\Debug\netstandard2.0\ref\AppPush.dll
+C:\Users\ACER\Desktop\AppPush\AppPush\AppPush\bin\Debug\netstandard2.0\AppPush.pdb
+C:\Users\ACER\Desktop\AppPush\AppPush\AppPush\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ACER\Desktop\AppPush\AppPush\AppPush\obj\Debug\netstandard2.0\AppPush.dll
+C:\Users\ACER\Desktop\AppPush\AppPush\AppPush\obj\Debug\netstandard2.0\ref\AppPush.dll
+C:\Users\ACER\Desktop\AppPush\AppPush\AppPush\obj\Debug\netstandard2.0\AppPush.pdb

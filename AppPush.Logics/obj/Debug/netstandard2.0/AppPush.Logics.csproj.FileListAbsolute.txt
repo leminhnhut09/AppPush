@@ -1,0 +1,10 @@
+C:\Users\ACER\Desktop\AppPush\AppPush.Logics\bin\Debug\netstandard2.0\AppPush.Logics.deps.json
+C:\Users\ACER\Desktop\AppPush\AppPush.Logics\bin\Debug\netstandard2.0\AppPush.Logics.dll
+C:\Users\ACER\Desktop\AppPush\AppPush.Logics\bin\Debug\netstandard2.0\AppPush.Logics.pdb
+C:\Users\ACER\Desktop\AppPush\AppPush.Logics\obj\Debug\netstandard2.0\AppPush.Logics.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\AppPush\AppPush.Logics\obj\Debug\netstandard2.0\AppPush.Logics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\AppPush\AppPush.Logics\obj\Debug\netstandard2.0\AppPush.Logics.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\AppPush\AppPush.Logics\obj\Debug\netstandard2.0\AppPush.Logics.AssemblyInfo.cs
+C:\Users\ACER\Desktop\AppPush\AppPush.Logics\obj\Debug\netstandard2.0\AppPush.Logics.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\AppPush\AppPush.Logics\obj\Debug\netstandard2.0\AppPush.Logics.dll
+C:\Users\ACER\Desktop\AppPush\AppPush.Logics\obj\Debug\netstandard2.0\AppPush.Logics.pdb
